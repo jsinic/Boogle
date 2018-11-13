@@ -1,0 +1,89 @@
+.header {
+  text-align: right;
+  font-size: 20px;
+}
+
+.search {
+  text-align: center;
+  margin-top: 350px;
+  /* border: 1px solid red; to je samo za kontrolo da se lahko pozicioniramo */
+  width: 200px;
+  margin-left: auto;
+  margin-right:auto;
+}
+
+#gumbek{
+    text-align: center;
+}
+
+h1 {
+  display: inline;
+  font-size: 60px;
+}
+
+.blue {
+  color: blue;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.footer {
+  position: fixed;
+  border: 50px solid red;
+  bottom: 0;
+  font-size: 20x;
+}
+
+.a {
+  position: absolute;
+  border: 20px solid blue;
+  bottom: 0;
+  margin-right: 10px;
+  font-size: 20x;
+}
+
+.b {
+  position: absolute;
+  border: 15px solid green;
+  bottom: 0;
+  margin-right: 10px;
+
+}
+
+.c {
+  position: absolute;
+  border: 1px solid blue;
+  bottom: 0;
+  display: inline-block;
+}
+
+.d {
+  position: absolute;
+  border: 1px solid red;
+  bottom: 0;
+  display: inline-block;
+}
+
+.e {
+  position: absolute;
+  border: 1px solid red;
+  bottom: 0;
+  display: inline-block;
+}
+
+.f {
+  position: absolute;
+  border: 1px solid red;
+  bottom: 0;
+  display: inline-block;
+}
